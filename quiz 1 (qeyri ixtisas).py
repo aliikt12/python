@@ -130,27 +130,3 @@ elif sade(n) == False:
         print(f'1. Orijinal eded ({copy}) sadedir? XEYR.')
         print(f'2. {copy}-in binary formasi ({ikilik2(copy)}) nece dene "1" saxlayir? {ikilik(copy)} (3-den boyukdur).')
         print('Seviyye 3')'''
-        
-
-    
-            
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-    
