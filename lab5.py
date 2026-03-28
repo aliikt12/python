@@ -261,6 +261,3 @@ def tersine(a):
         quvvet //= 10
     return yeni // 10
 print(tersine(n))'''
-    
-
-    
