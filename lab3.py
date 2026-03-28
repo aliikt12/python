@@ -199,6 +199,3 @@ for i in range(14):
                 usul += 1
                 nomre += 1
 print(f'{usul} sayda yolla etmek olar.')'''
-
-
-
