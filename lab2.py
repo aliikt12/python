@@ -402,7 +402,3 @@ if (((x ** 2 + y ** 2) <= 1) and (y >= x)) or ((x >= -1) and (y <= 1) and (x <= 
     print(f' ({x};{y}) noqtesi bu saheye daxildir.')
 else:
     print(' Noqte buraya aid deyil.')'''
-
-
-
-    
